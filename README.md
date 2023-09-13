@@ -129,9 +129,10 @@ The target audience of HackBuddy includes individuals and groups who are interes
 - **Advanced Tech Stack:** While the current version utilizes beginner-friendly languages like HTML and CSS, future improvements will involve adopting more advanced tech stacks and frameworks. This may include utilizing front-end frameworks like React or Vue.js for enhanced interactivity and scalability.
 - **Deployment:** Currently hosted on a local server, the project's future iterations will prioritize deployment to improve accessibility. Deployment to a cloud-based platform, such as AWS, Azure, or Heroku, will ensure reliable access to the website from anywhere, enhancing user experience and scalability.
 
-## Languages Used
+## Technologies Used
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 ## Thank You Note
 > _Thank you for visiting the repository! If you found potential in my work, I would greatly appreciate it if you could show your support by starring this repo. Every star brings a beginner a step closer to being a star.✨_
